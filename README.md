@@ -1,99 +1,70 @@
+# Getting Started with Create React App
 
-# 🌐 Digital Disaster Response System
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## 📌 Overview
+## Available Scripts
 
-The Digital Disaster Response System is a smart platform designed to improve emergency response and disaster management. It enables real-time communication and coordination between citizens, volunteers, and authorities during critical situations such as natural disasters and accidents.
+In the project directory, you can run:
 
----
+### `npm start`
 
-## 🚀 Features
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-* 📍 **Real-Time Emergency Reporting** with GPS location
-* 👥 **User, Volunteer & Admin Modules**
-* 📊 **Centralized Dashboard** for monitoring incidents
-* 🔔 **Instant Notifications & Alerts**
-* 📦 **Resource Management System**
-* 🗺️ **Live Location Tracking using Maps**
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
----
+### `npm test`
 
-## 🛠️ Tech Stack
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-* **Frontend:** React.js
-* **Backend:** Node.js / Flask
-* **Database:** SQL (MySQL / PostgreSQL)
-* **Other Tools:** Google Maps API, Socket.io
+### `npm run build`
 
----
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-## ⚙️ Installation
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-```bash
-# Clone the repository
-git clone https://github.com/your-username/repo-name.git
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-# Navigate to project folder
-cd repo-name
+### `npm run eject`
 
-# Install dependencies
-npm install
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-# Run the project
-npm start
-```
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
----
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-## 📂 Project Structure
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-```
-/client     → Frontend (React)
-/server     → Backend (Node/Flask)
-/database   → SQL scripts
-```
+## Learn More
 
----
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-## 🎯 Usage
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-* Users can report emergencies with location
-* Admin can monitor and manage incidents
-* Volunteers can respond and assist
+### Code Splitting
 
----
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-## 📸 Screenshots
+### Analyzing the Bundle Size
 
-<img width="1859" height="855" alt="Screenshot 2025-04-29 104337" src="https://github.com/user-attachments/assets/57f2020a-6224-4a69-8567-d4292a59337b" />
-<img width="1863" height="857" alt="Screenshot 2025-04-29 104428" src="https://github.com/user-attachments/assets/538cd867-072e-4901-bb73-7c498eac72a9" />
-<img width="1859" height="854" alt="Screenshot 2025-04-29 104521" src="https://github.com/user-attachments/assets/609aa1d5-3771-475f-9cac-597b0a228838" />
-<img width="1564" height="793" alt="Screenshot 2025-04-29 104713" src="https://github.com/user-attachments/assets/7c195372-5384-4064-b141-e07231a8e07b" />
-<img width="1575" height="593" alt="Screenshot 2025-04-29 105013" src="https://github.com/user-attachments/assets/10c4d69b-6710-4cdf-9a6a-800fcb93af38" />
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
----
+### Making a Progressive Web App
 
-## 🌱 Future Enhancements
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-* AI-based disaster prediction
-* Mobile application support
-* Multi-language support
+### Advanced Configuration
 
----
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-## 🤝 Contributing
+### Deployment
 
-Contributions are welcome! Feel free to fork and submit pull requests.
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
----
+### `npm run build` fails to minify
 
-## 📄 License
-
-This project is open-source and available under the MIT License.
-
----
-
-## 👨‍💻 Author
-
-**Battula Kiran Sree**
-
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
